@@ -1,7 +1,5 @@
 ![Logo](https://raw.githubusercontent.com/Caarlos94/WeatherApp/main/Frontend/assets/landing.png)
 
-![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/main-Pokemon.png)
-
 # Individual Project - Weather App
 
 Este es un proyecto basico consumiendo la API https://openweathermap.org/api
@@ -47,24 +45,16 @@ El boilerPlate tiene una carpeta: `Frontend`.
 
 - Main
 
-![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/main-Pokemon.png)
+![main](https://raw.githubusercontent.com/Caarlos94/WeatherApp/main/Frontend/assets/landing2.png)
 
-- Home 
+- Empty Home
 
-![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/home-Pokemon.png)
+![home](https://raw.githubusercontent.com/Caarlos94/WeatherApp/main/Frontend/assets/emptyHome.png)
 
-- Busqueda 
+- Full Home
 
-![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/search-Pokemon.png)
+![home](https://raw.githubusercontent.com/Caarlos94/WeatherApp/main/Frontend/assets/home.png)
 
-- Formulario para Crear Pokemon
+- Detalle
 
-![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/create-Pokemon.png)
-
-- Pokemon Creado 
-
-![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/created-Pokemon.png)
-
-- Detalle del Pokemon
-
-![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/detail-Pokemon.png)
+![detail](https://raw.githubusercontent.com/Caarlos94/WeatherApp/main/Frontend/assets/detail.png)
