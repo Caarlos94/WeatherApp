@@ -1,4 +1,6 @@
-![Logo](https://raw.githubusercontent.com/Caarlos94/Frontend/assets/Readme/landing.png)
+![Logo](https://raw.githubusercontent.com/Caarlos94/WeatherApp/Frontend/assets/Readme/landing.png)
+
+![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/main-Pokemon.png)
 
 # Individual Project - Weather App
 
