@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Caarlos94/WeatherApp/Frontend/assets/landing.png)
+![Logo](https://raw.githubusercontent.com/Caarlos94/WeatherApp/main/Frontend/assets/landing.png)
 
 ![home](https://raw.githubusercontent.com/Caarlos94/pokemon/main/client/src/img/Readme/main-Pokemon.png)
 
