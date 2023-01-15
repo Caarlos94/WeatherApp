@@ -1,0 +1,51 @@
+.barraNav {
+  background-color: #333;
+  color: white;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.linkContainer {
+  width: 350px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.weatherTitle {
+  font-size: 1.25rem;
+}
+
+.bar {
+  position: absolute;
+  right: 20px;
+}
+
+.weatherLink {
+  font-size: 1.20rem;
+  color: white;
+  padding: 0 4px;
+}
+
+.weatherLink:hover{
+  background-color: #0091f1;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 5px;
+}
+
+.barraNav a:hover {
+  text-decoration: none;
+}
+
+@media screen and (max-width:450px) {
+  .linkContainer {
+    width: 135px;
+    flex-direction: column;
+  }
+
+  .barraNav {
+    padding: 0.35rem;
+  }
+}

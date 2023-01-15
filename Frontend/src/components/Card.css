@@ -1,0 +1,51 @@
+.card {
+  border: none;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 17rem;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.2);
+  margin: 0 auto;
+  color: #000;
+}
+
+.card:hover {
+  transform: translateY(-0.7rem);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.35);
+  transition: all 0.4s;
+  cursor: pointer;
+}
+
+.card-title {
+  margin-bottom: 15px;
+  color: #0091f1;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px;
+  padding-top: 0px
+}
+
+.rowInfo {
+  flex: 0 0 33.3%
+}
+
+@media screen and (max-width:450px) {
+  .card {
+  width: 10.5rem;
+  }
+
+  .rowInfo {
+    flex: 0 0 50%
+  }
+
+  .iconCard {
+    flex: 0 0 100%
+  }
+}

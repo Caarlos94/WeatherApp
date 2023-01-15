@@ -1,0 +1,84 @@
+body {
+    height: 100vh;
+    background-color: #0091f1;
+    color: #fff;
+    position: relative;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 100px;
+    margin: 0;
+    padding: 50px 0 15px 0;
+}
+
+.textoInicio{
+    font-family: 'Poppins';
+    font-size: 2rem;
+    line-height: 46px;
+    margin-bottom: 2.75rem;
+}
+
+
+.imgContainer {
+    margin-top: 2.75rem;
+    display: grid;
+    grid-template-columns: repeat(3, 33.3%);
+    align-items: center;
+}
+
+.nube {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.sol {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.landingBoton {
+    background-color:#2455c9;
+    color: #fff;
+    width: 282px;
+    height: 104px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2.25rem;
+    border-radius: 8px;
+    transition: 0.5s;
+} 
+
+.landingBoton:hover {
+    background-color:#F47D35;
+}
+
+
+@media screen and (max-width:450px) {
+    .imgContainer {
+        grid-template-columns: repeat(2, 50%);
+    }
+
+    .nube {
+        width: 200px;
+    }
+    
+    .sol {
+        width: 175px;
+        grid-row: 2/3;
+        grid-column: span 2;
+    }
+
+    h1 {
+        padding: 35px 0 15px 0;
+        font-size: 70px;
+    }
+
+    .landingBoton {
+        padding: 12px 28px;
+        font-size: 2rem;
+    }
+}
