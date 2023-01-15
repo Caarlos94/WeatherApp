@@ -1,4 +1,4 @@
-![Logo](https://images7.alphacoders.com/592/592678.jpg)
+![Logo](https://raw.githubusercontent.com/Caarlos94/Frontend/assets/Readme/landing.png)
 
 # Individual Project - Weather App
 
